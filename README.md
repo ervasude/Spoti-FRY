@@ -1,2 +1,2 @@
 # Spoti-FRY
- A selected music library 
+ A library of selected musics 
